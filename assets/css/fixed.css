@@ -1,0 +1,14 @@
+.fix{
+    position: fixed;
+    text-align: center;
+    width: 1500px;
+    height: 64px;
+    background-color:rgb(69, 104,  34);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: inline;
+}
+.we{
+    height: 3000px;
+    width: 400px;
+    
+}
