@@ -1,0 +1,14 @@
+.rotate{
+    margin: 40px;
+    background-color: #333;
+    color: aliceblue;
+    width: 120px;
+    height: 120px;
+    transition-duration: 2s, 10s;
+    transition-timing-function: ease-in-out;
+    transition-property: backgroung-color, width;
+}
+.rotate:hover{
+    background-color: aqua;
+    width: 500px;
+}

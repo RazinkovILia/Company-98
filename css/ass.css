@@ -1,0 +1,126 @@
+ul.nav{
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style: none ;
+    border-radius: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 0;
+}
+.nav li{
+    display: inline ;
+}
+ul.nav a{
+    color: black;
+    text-decoration: none ;
+    display: inline-block;
+    width: 6em;
+    padding: 10px;
+    background-color: #f4f4f4;
+    border: 1px dashed rgb(107, 140, 50);
+    text-align: center;
+    margin: 12px;
+    border-radius: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+ul.nav a:hover{
+    background-color:rgb(107, 140, 50);
+    color: #f4f4f4;  
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+}
+.hdr{
+    padding-top: 20px;
+    width: auto;
+    height: 130px;
+    background-color: rgb(107, 140, 50);
+    color: #f4f4f4;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.hdr2{
+    
+    text-align: center;
+    width: auto;
+    height: 64px;
+    background-color:rgb(69, 104,  34);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.txtHdr{
+    font-size: 30px;
+    margin-left: 1150px;
+    margin-top: -118px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.LtxtHdr{
+    font-size: 20px;
+    margin-left: 1150px;
+    margin-top: 3px;
+}
+.ava{
+    width: 250px;
+    margin-left: 475px;
+}
+.poisk{
+    margin-left: 200px;
+    margin-top: 20px;
+    width: 500px;
+    height: 75px;
+    background-color: rgb(69, 104,  34) ;
+    border-radius: 10px;
+    padding: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.TxtPo{
+    display: inline-block;
+    margin: 6px;
+    color: #f4f4f4;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.TT{
+    background-color: #f4f4f4;
+    padding-left: 14px;
+    margin:3px ;
+    font-size: 25px;
+    width: 480px;
+    margin-top: 3px;
+    border-radius: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.block {
+    display: inline-flex;
+}
+.block_2{
+    margin-top: 20px ;
+    margin-left: 60px;
+    margin-right: 60PX;
+    width: 940px;
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.ramkaImg{
+    background-color:rgb(69, 104,  34) ;
+    margin-top: 20px ;
+    color: #f4f4f4;
+    padding: 10px;
+    font-size: 25px;
+    border-radius: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.imgg{
+    width: 500px;
+    border-radius: 5px;
+    margin-bottom: -6px;
+}
+.pred{
+    margin-left: 200px;
+    margin-top: 20px;
+    width: 500px;
+    height: 75px;
+    background-color: rgb(69, 104,  34) ;
+    border-radius: 10px;
+    padding: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{
+    margin: 0;
+}
